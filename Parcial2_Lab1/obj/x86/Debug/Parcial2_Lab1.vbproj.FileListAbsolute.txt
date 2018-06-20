@@ -1,0 +1,23 @@
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.exe
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.pdb
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.xml
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Form1.resources
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Form2.resources
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Resources.resources
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.vbproj.GenerateResource.Cache
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.exe
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.xml
+D:\IES\Laboratorio1_2018\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.pdb
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.exe
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.xml
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.pdb
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.exe
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.pdb
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.xml
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Form1.resources
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Form2.resources
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Resources.resources
+D:\Docente\Desktop\Parcial2_Lab1\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.vbproj.GenerateResource.Cache
+D:\Alumno\Desktop\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.exe
+D:\Alumno\Desktop\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.xml
+D:\Alumno\Desktop\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.pdb
