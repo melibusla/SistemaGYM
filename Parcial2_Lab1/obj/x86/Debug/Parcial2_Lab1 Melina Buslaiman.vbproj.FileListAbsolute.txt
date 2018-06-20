@@ -11,3 +11,10 @@ D:\Alumno\Desktop\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Par
 J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.exe
 J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.xml
 J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.pdb
+J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.exe
+J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.pdb
+J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\bin\Debug\Parcial2_Lab1.xml
+J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Form1.resources
+J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Form2.resources
+J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1.Resources.resources
+J:\IES\1er Semestre\Laboratorio 1\Parcial2_Lab1 Melina Buslaiman\Parcial2_Lab1\obj\x86\Debug\Parcial2_Lab1 Melina Buslaiman.vbproj.GenerateResource.Cache

@@ -16,7 +16,7 @@
         'mostrar todos
         If opt1.Checked Then
 
-            For i = 0 To pos
+            For i = 0 To pos - 1
                 If Clientes(i).Medico = True Then
                     opcionMed = "Si"
                 Else
@@ -38,7 +38,7 @@
 
         Else
             '20 y 30
-            For i = 0 To pos
+            For i = 0 To pos - 1
                 If Clientes(i).Edad >= 20 And Clientes(i).Edad <= 30 Then
                     If Clientes(i).Medico = True Then
                         opcionMed = "Si"

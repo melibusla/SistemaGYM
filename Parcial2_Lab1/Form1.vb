@@ -36,6 +36,7 @@
             chkMasajes.Enabled = True
         Else
             chkMasajes.Enabled = False
+            chkMasajes.Checked = False
         End If
     End Sub
 
