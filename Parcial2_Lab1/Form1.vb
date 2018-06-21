@@ -47,20 +47,16 @@
     Private Sub txtEdad_TextChanged(sender As System.Object, e As System.EventArgs) Handles txtEdad.TextChanged
         ValidarDatos()
     End Sub
-    Private Function ValidarDatos() As Boolean
-        Dim Validar As Boolean = False
+    Private Sub ValidarDatos()
         Dim nombre As String = txtNombre.Text
         Dim edad As Integer = Val(txtEdad.Text)
 
         If nombre.Length > 3 And (edad >= 18 And edad <= 80) Then
-            Validar = True
             cmdGrabar.Enabled = True
         Else
             cmdGrabar.Enabled = False
         End If
-
-        Return Validar
-    End Function
+    End Sub
 
     Private Sub cmdGrabar_Click(sender As System.Object, e As System.EventArgs) Handles cmdGrabar.Click
         Dim total As Decimal = 0
